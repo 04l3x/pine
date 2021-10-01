@@ -1,0 +1,5 @@
+[workspace]
+members = [
+	"immunity-server",
+	"immunity-client",
+]
