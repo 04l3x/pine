@@ -1,3 +1,9 @@
 [submodule "pine-git"]
 	path = pine-git
 	url = https://gitlab.com/al3xio/pine-git.git
+[submodule "pine-server"]
+	path = pine-server
+	url = https://gitlab.com/al3xio/pine-server.git
+[submodule "pine-client"]
+	path = pine-client
+	url = https://gitlab.com/al3xio/pine-client.git
