@@ -1,6 +1,3 @@
-[submodule "immunity-server"]
-	path = immunity-server
-	url = https://gitlab.com/al3xio/immunity-server.git
-[submodule "immunity-client"]
-	path = immunity-client
-	url = https://gitlab.com/al3xio/immunity-client.git
+[submodule "pine-git"]
+	path = pine-git
+	url = https://gitlab.com/al3xio/pine-git.git
