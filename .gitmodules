@@ -7,3 +7,6 @@
 [submodule "pine-client"]
 	path = pine-client
 	url = https://gitlab.com/al3xio/pine-client.git
+[submodule "pine-error"]
+	path = pine-error
+	url = https://gitlab.com/al3xio/pine-error.git
