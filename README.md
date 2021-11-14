@@ -5,6 +5,7 @@
 - ###### this is a work in progress, and isn't ready to use it
 
 
+
 <!--
 [//]: <> # temporal space for requisites
 [//]: <> 
@@ -72,3 +73,10 @@
 [//]: <> ./server &
 [//]: <> ```
 -->
+
+data example
+default user user
+default password password
+default email user@user.com
+
+
