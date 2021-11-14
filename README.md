@@ -72,11 +72,12 @@
 [//]: <> cd /path/of/binary/output
 [//]: <> ./server &
 [//]: <> ```
+
+[//]: <> data example
+[//]: <> default user user
+[//]: <> default password password
+[//]: <> default email user@user.com
 -->
 
-data example
-default user user
-default password password
-default email user@user.com
 
 
