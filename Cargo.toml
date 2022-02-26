@@ -1,6 +1,5 @@
 [workspace]
 members = [
-	"pine-client",
 	"pine-error",
 	"pine-git",
 	"pine-server",
