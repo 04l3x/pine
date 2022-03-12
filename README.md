@@ -5,6 +5,33 @@
 - ###### this is a work in progress, and isn't ready to use it
 
 
+## for development enviroment
+
+* prerequisites
+do you need have installed
+rust 1.56+
+postgresql 13+
+
+clone the backend
+```bash
+git clone --recurse-submodules https://gitlab.com/0al3x/pine
+```
+
+move to server
+```
+cd /path/of/pine/pine-server
+# rename de .env.local file
+mv .env.local .env
+# and edit it as you need
+```
+
+run development server
+```
+cargo run
+```
+
+if you use the same .env file the API will run in `localhost:9000/api`
+
 
 <!--
 [//]: <> # temporal space for requisites
